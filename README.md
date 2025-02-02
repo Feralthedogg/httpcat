@@ -16,10 +16,10 @@ go get github.com/Feralthedogg/httpcat
 
 > Requires Go 1.16 or later to use the `embed` package.
 
-## Directory Structure Example
+## Directory Structure
 
 ```
-your_project/
+httpcat/
 ├── go.mod
 ├── go.sum
 ├── pkg/
