@@ -1,4 +1,4 @@
-module httpcat
+module github.com/Feralthedogg/httpcat
 
 go 1.23.1
 
